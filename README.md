@@ -11,10 +11,6 @@ Just a webinar
  * [S3 Static Website](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)  
  * [AWS Region Codes](http://docs.aws.amazon.com/general/latest/gr/rande.html)  
  
- * [AWS Free tier](https://aws.amazon.com/free/)  
- * [AWS Free tier](https://aws.amazon.com/free/)  
- * [AWS Free tier](https://aws.amazon.com/free/) 
- 
 ### Youtube Links:
  * [Linux Academy S3 Overview](https://aws.amazon.com/free/) 
  * [Use AWS for a text message service Part 1]( https://www.youtube.com/watch?v=3eLp6RG5s6Y) 
@@ -25,5 +21,4 @@ Just a webinar
  * [Linux Academy $30/month](https://linuxacademy.com/)
  * [ACloudGuru $10](https://www.udemy.com/aws-certified-solutions-architect-associate/)
  * [Whizlabs practice test $20](https://www.whizlabs.com/aws-solutions-architect-associate/)
- * [Linux Academy $30/month](https://linuxacademy.com/)
- * [Linux Academy $30/month](https://linuxacademy.com/) 
+ * [AWS Certification](https://linuxacademy.com/)
